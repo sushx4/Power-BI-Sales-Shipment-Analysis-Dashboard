@@ -11,3 +11,5 @@ The dashboard covers:
 
 Tools & Technologies:
 Power BI Power Query Data Analysis Data Visualization
+<img width="867" height="467" alt="Screenshot 2026-09-25 181814" src="https://github.com/user-attachments/assets/d4e54eb3-2b5f-4dc2-802d-cbd649aa0eff" />
+
